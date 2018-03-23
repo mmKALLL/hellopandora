@@ -1,3 +1,3 @@
-all rights reserved for now
+All rights reserved for now.
 
-no guarantees
+No guarantees or warranties, express or implied.
